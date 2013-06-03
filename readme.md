@@ -1,4 +1,4 @@
-# H5BP Mobile Boilerplate generator [![Build Status](https://secure.travis-ci.org/sindresorhus/generator-mobile-boilerplate.png?branch=master)](http://travis-ci.org/sindresorhus/generator-mobile-boilerplate)
+# H5BP Mobile Boilerplate generator [![Build Status](https://secure.travis-ci.org/h5bp/generator-mobile-boilerplate.png?branch=master)](http://travis-ci.org/h5bp/generator-mobile-boilerplate)
 
 Scaffolds out [H5BP Mobile Boilerplate](http://html5boilerplate.com/mobile/)
 
