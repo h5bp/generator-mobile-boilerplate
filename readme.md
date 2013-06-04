@@ -12,5 +12,4 @@ Scaffolds out [H5BP Mobile Boilerplate](http://html5boilerplate.com/mobile/)
 
 ## License
 
-[MIT License](http://en.wikipedia.org/wiki/MIT_License)
-(c) [Sindre Sorhus](http://sindresorhus.com)
+MIT License • © [Sindre Sorhus](http://sindresorhus.com)
