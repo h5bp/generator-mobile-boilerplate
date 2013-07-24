@@ -5,9 +5,8 @@ Scaffolds out [H5BP Mobile Boilerplate](http://html5boilerplate.com/mobile/)
 
 ## Getting started
 
-- Make sure you have [yo](https://github.com/yeoman/yo) installed: `npm install -g yo`
-- Install the generator: `npm install -g generator-mobile-boilerplate`
-- Run: `yo mobile-boilerplate`
+- Install: `npm install -g generator-mobile-boilerplate`
+- Run it with [yo](https://github.com/yeoman/yo): `yo mobile-boilerplate`
 
 
 ## License
