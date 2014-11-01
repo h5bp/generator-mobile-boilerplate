@@ -23,7 +23,6 @@ var Generator = module.exports = function () {
 		this.directory('css');
 		this.directory('img');
 		this.directory('js');
-		this.directory('tools');
 		this.expandFiles('*', {
 			cwd: this.sourceRoot(),
 			dot: true
