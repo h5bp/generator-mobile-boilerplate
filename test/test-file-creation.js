@@ -23,7 +23,7 @@ describe('H5BP Mobile Boilerplate generator', function () {
 		helpers.mockPrompt(this.generator, { docs: true });
 
 		this.generator.run({}, function () {
-			helpers.assertFiles(expected);
+			helpers.assertFile(expected);
 			cb();
 		});
 	});

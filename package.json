@@ -8,23 +8,18 @@
     "boilerplate",
     "template"
   ],
-  "homepage": "https://github.com/h5bp/generator-mobile-boilerplate",
-  "bugs": "https://github.com/h5bp/generator-mobile-boilerplate/issues",
   "author": {
     "name": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
     "url": "http://sindresorhus.com"
   },
   "main": "app/index.js",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/h5bp/generator-mobile-boilerplate.git"
-  },
+  "repository": "h5bp/generator-mobile-boilerplate",
   "scripts": {
     "test": "mocha"
   },
   "dependencies": {
-    "yeoman-generator": "~0.18.6"
+    "yeoman-generator": "^0.18.6"
   },
   "devDependencies": {
     "mocha": "*"
@@ -33,13 +28,9 @@
     "yo": ">=1.0.0"
   },
   "engines": {
-    "node": ">=0.8.0"
+    "node": ">=0.10.0"
   },
-  "licenses": [
-    {
-      "type": "MIT"
-    }
-  ],
+  "license": "MIT",
   "files": [
     "app"
   ]
