@@ -3,10 +3,20 @@
 > Scaffolds out [H5BP Mobile Boilerplate](http://html5boilerplate.com/mobile/)
 
 
-## Getting started
+## Install
 
-- Install: `npm install --global generator-mobile-boilerplate`
-- Run it with [yo](https://github.com/yeoman/yo): `yo mobile-boilerplate`
+```
+$ npm install --global generator-mobile-boilerplate
+```
+
+
+## Usage
+
+Run it with [`yo`](https://github.com/yeoman/yo):
+
+```
+$ yo mobile-boilerplate
+```
 
 
 ## Output

@@ -6,12 +6,13 @@
     "yeoman-generator",
     "html",
     "boilerplate",
-    "template"
+    "template",
+    "h5bp"
   ],
   "author": {
     "name": "Sindre Sorhus",
     "email": "sindresorhus@gmail.com",
-    "url": "http://sindresorhus.com"
+    "url": "sindresorhus.com"
   },
   "main": "app/index.js",
   "repository": "h5bp/generator-mobile-boilerplate",
@@ -23,9 +24,6 @@
   },
   "devDependencies": {
     "mocha": "*"
-  },
-  "peerDependencies": {
-    "yo": ">=1.0.0"
   },
   "engines": {
     "node": ">=0.10.0"
