@@ -21,9 +21,9 @@ describe('H5BP Mobile Boilerplate generator', function () {
 	it('generates expected files', function (cb) {
 		var expected = ['index.html', 'doc'];
 
-		helpers.mockPrompt(this.generator, { docs: true });
+		helpers.mockPrompt(this.generator, {docs: true});
 
-		this.generator.run({}, function () {
+		this.generator.run(function () {
 			helpers.assertFile(expected);
 			cb();
 		});
