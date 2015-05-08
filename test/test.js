@@ -2,6 +2,7 @@
 'use strict';
 var path = require('path');
 var helpers = require('yeoman-generator').test;
+var assert = require('yeoman-assert');
 
 describe('H5BP Mobile Boilerplate generator', function () {
 	beforeEach(function (cb) {
@@ -24,7 +25,7 @@ describe('H5BP Mobile Boilerplate generator', function () {
 		helpers.mockPrompt(this.generator, {docs: true});
 
 		this.generator.run(function () {
-			helpers.assertFile(expected);
+			assert.file(expected);
 			cb();
 		});
 	});
