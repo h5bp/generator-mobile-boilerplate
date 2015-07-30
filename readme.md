@@ -2,6 +2,8 @@
 
 > Scaffolds out [H5BP Mobile Boilerplate](http://html5boilerplate.com/mobile/)
 
+## [Deprecated.](https://github.com/h5bp/mobile-boilerplate) Use [generator-h5bp](https://github.com/h5bp/generator-h5bp) instead.
+
 
 ## Install
 
