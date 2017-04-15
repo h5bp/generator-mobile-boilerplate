@@ -23,6 +23,9 @@
     "yeoman-generator": "^0.19.2",
     "yeoman-assert": "^2.0.0"
   },
+  "peerDependencies": {
+    "yo": ">=1.0.0-rc.1.1"
+  },
   "devDependencies": {
     "mocha": "*"
   },
